@@ -31,7 +31,6 @@ O to-do list permite que usuário inclua novos itens a uma lista de tarefas e ge
 - Clone o repositório
 - Instale as dependências com `yarn install`
 - Inicie o servidor com `yarn dev`
-```
 
 Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navegador.
 
